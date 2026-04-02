@@ -1,0 +1,22 @@
+{
+  "stories": [
+    {
+      "title": "narutoê",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "thanh9811@gmail.com",
+      "password": "$2a$10$uoWKbtSewcStFWl1iYNoBOuSPS4/yg.gYGnPP5wnJnL.cROBqsdsq",
+      "name": "abc",
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$4/H/5HV19T7kgSVMKfqaduJ3ck9uqbv67AD/p1UCtLNNNdn2v9U1S",
+      "name": "aibiet",
+      "id": 2
+    }
+  ]
+}
