@@ -18,7 +18,7 @@ export class Register {
   constructor(
     private fb: FormBuilder,
     private http: HttpClient,
-    private router: Router,
+    private router: Router,   
   ) {
     this.registerForm = this.fb.group({
       name: "",
